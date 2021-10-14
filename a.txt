@@ -2,3 +2,4 @@ arquivo modificado
 Entendendo o HEAD
 
 modificado no ramo Master
+linha modificada no ramo: novo-ramo
