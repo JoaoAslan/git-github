@@ -1,2 +1,4 @@
 arquivo modificado
 Entendendo o HEAD
+
+linha modificada no ramo: novo-ramo
